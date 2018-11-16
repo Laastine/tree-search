@@ -1,1 +1,3 @@
-# tree-search
+# Tree-search
+
+`cargo run`
